@@ -1,0 +1,6 @@
+D:\Data\KULIAH\MATERI\Sem2\Pemrograman\Responsi 06 07 20\ProjectProduk\ProjectProduk\bin\Debug\ProjectProduk.exe
+D:\Data\KULIAH\MATERI\Sem2\Pemrograman\Responsi 06 07 20\ProjectProduk\ProjectProduk\bin\Debug\ProjectProduk.pdb
+D:\Data\KULIAH\MATERI\Sem2\Pemrograman\Responsi 06 07 20\ProjectProduk\ProjectProduk\obj\Debug\ProjectProduk.csprojResolveAssemblyReference.cache
+D:\Data\KULIAH\MATERI\Sem2\Pemrograman\Responsi 06 07 20\ProjectProduk\ProjectProduk\obj\Debug\ProjectProduk.csproj.CoreCompileInputs.cache
+D:\Data\KULIAH\MATERI\Sem2\Pemrograman\Responsi 06 07 20\ProjectProduk\ProjectProduk\obj\Debug\ProjectProduk.exe
+D:\Data\KULIAH\MATERI\Sem2\Pemrograman\Responsi 06 07 20\ProjectProduk\ProjectProduk\obj\Debug\ProjectProduk.pdb
